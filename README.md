@@ -6,6 +6,9 @@ Streamlit.
 
 Для распознавания изображений используется нейронная сеть EfficientNetB0. 
 
-# Запуск web-приложения
-streamlit run app.py
+## Запуск (Linux)
+```python
+<!DOCTYPE py>
+    streamlit run app.py
+```
 
