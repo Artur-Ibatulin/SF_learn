@@ -8,7 +8,6 @@ Streamlit.
 
 ## Запуск (Linux)
 ```python
-<!DOCTYPE py>
     streamlit run app.py
 ```
 
