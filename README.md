@@ -11,3 +11,5 @@ Streamlit.
     streamlit run app.py
 ```
 
+## Развертывание в облаке
+https://sflearn-dkbmwp3mvawxwfco9lki9j.streamlit.app/
