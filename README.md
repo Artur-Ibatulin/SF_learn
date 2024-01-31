@@ -13,3 +13,7 @@ Streamlit.
 
 ## Развернутая приложение в облаке streamlit
 https://sflearn-dkbmwp3mvawxwfco9lki9j.streamlit.app/
+
+## Автор
+Ибатулин А.А.
+работа сделана в рамках изучения курса програмной инженерии
