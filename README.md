@@ -15,5 +15,5 @@ Streamlit.
 https://sflearn-dkbmwp3mvawxwfco9lki9j.streamlit.app/
 
 ## Автор
-Ибатулин А.А.
+Ибатулин А.А.,
 работа сделана в рамках изучения курса програмной инженерии
