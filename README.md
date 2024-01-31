@@ -11,7 +11,7 @@ Streamlit.
     streamlit run app.py
 ```
 
-## Развернутая приложение в облаке streamlit
+## Развернутое приложение в облаке streamlit
 https://sflearn-dkbmwp3mvawxwfco9lki9j.streamlit.app/
 
 ## Автор
